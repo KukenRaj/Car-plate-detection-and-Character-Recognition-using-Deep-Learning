@@ -12,4 +12,5 @@ The coding is executable and the simulated result is demonstrated as below
 ![successcarplate](https://user-images.githubusercontent.com/70626062/91957656-e722f200-ed38-11ea-88d8-491568cae6d4.PNG)
 
 # References
-This project using yolov3 to detection license plate in street using repo 
+This project using yolov3 to license plate detection and character recognition using repo https://github.com/ultralytics/yolov3
+and 
