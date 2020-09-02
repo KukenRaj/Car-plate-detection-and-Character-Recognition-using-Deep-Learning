@@ -6,4 +6,5 @@ Pytorch is used as framework for coding
 The detection system is tested mainly on cars in Malaysia.
 
 The coding is executable and the simulated result is demonstrated as below
-![Image of Detected Car Plate](https://octodex.github.com/images/yaktocat.png)
+![successcarplate](https://user-images.githubusercontent.com/70626062/91956302-1173b000-ed37-11ea-9555-6aea41a5bd42.PNG)
+
