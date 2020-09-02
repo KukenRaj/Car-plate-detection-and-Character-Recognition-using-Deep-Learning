@@ -1,7 +1,7 @@
 # License-plate-detection-and-Character-Recognition-using-Deep-Learning
 
-#The project is about car plate detection and character recognition using Deep Learning. Yolo v3
-#architecture is used as it use COCO model dataset and easy to train on
+The project is about car plate detection and character recognition using Deep Learning. 
+Yolo v3 architecture is used as it use COCO model dataset and easy to train on
 Pytorch is used as framework for coding 
 The detection system is tested mainly on cars in Malaysia.
 Google Colab is used mainly to train and test the coding of this project
